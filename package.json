@@ -1,0 +1,20 @@
+{
+  "name": "project3",
+  "version": "1.0.0",
+  "description": "Found yourself wishing you knew how to do something but didn't know where to start? Ever thought, \"If I just had someone to help me and mentor me through this\"? Or have you ever had a skill you wish you could teach someone else? Peer2Here is the site for you! The site where you can find a mentor or mentee for all those \"I wish\" ideas. No more of that \"wishing\" mentality, get connected NOW!",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/larynxmith/project3.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/larynxmith/project3/issues"
+  },
+  "homepage": "https://github.com/larynxmith/project3#readme"
+}
